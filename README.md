@@ -21,7 +21,7 @@ Checking Installed Applications
 To view installed packages, run:
 apt list --installed
 
-Skills Learned
+## Skills Learned
 Linux package management
 Installing applications using apt
 Removing packages safely
